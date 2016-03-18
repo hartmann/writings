@@ -3,7 +3,7 @@ Det er i år 15 år siden det [smidige manifestet](http://www.agilemanifesto.org
 
 Mange arkitekter er fremdeles preget av klassisk arkitekturarbeid. Lang og god planlegging oppfattes som det viktigste for å sikre suksess, selv om det gang på gang viser seg at dette ikke stemmer. Ved tidlig detaljering av arkitektur gjøres valg på det tidspunktet hvor man vet minst om faktiske behov, og dette fører lett til feil eller i beste fall suboptimal arkitektur. Planleggingen er desverre ofte ensbetydende med å lage mye og omfattende dokumentasjon, fremfor å forstå behov og hensikt. Når denne omfattende dokumentasjonen så er skrevet skal den godkjennens i arkitekturfora, hvor det sitter personer med ulike perspektiv som alle skal bli enige før arkitekturen godkjennes. Det videre arbeidet med arkitekturen er preget av detaljstyring og kontrollmekanismer. En slik prosess for arkitekturutvikling er ikke overraskende tidkrevende, og arkitekturarbeidet krever lang kalendertid.
 
-![lang planlegging gir ikke alltid et godt resultat](https://github.com/hartmann/writings/blob/master/bilder/god_planlegging.jpg) *bildet gjengitt fra [styggesting](http://styggesting.no)*
+![lang planlegging gir ikke alltid et godt resultat](https://github.com/hartmann/writings/blob/master/bilder/god_planlegging.jpg) *bildet gjengitt etter tillatelse fra [styggesting](http://styggesting.no)*
 
 I tillegg til det omfattende arkitekturarbeidet har mange virksomheter med seg mye bagasje i form av gamle og rigide systemarkitekturer. Disse arkitekturene er tilpasset en tid hvor man ikke endret ting så ofte, og er gjerne etablert for å svare på konkrete utfordringer. Arkitekturene i seg selv er utfordrende nok, og i tillegg er de ofte realisert av applikasjoner som er preget av teknisk gjeld.
 
